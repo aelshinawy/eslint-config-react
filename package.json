@@ -1,0 +1,55 @@
+{
+  "name": "@aelshinawy/eslint-prettier-react",
+  "version": "0.0.1",
+  "description": "My custom eslint and prettier configuration for react projects",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint --ext js,jsx,ts,tsx --fix"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aelshinawy/eslint-prettier-react.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "typescript",
+    "config",
+    "prettier",
+    "react"
+  ],
+  "author": "Ahmed El-Shinawy <aelshinawy92@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aelshinawy/eslint-prettier-react/issues"
+  },
+  "homepage": "https://github.com/aelshinawy/eslint-prettier-react",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
+    "eslint": "^8.29.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx": "^0.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-simple-import-sort": "^8.0.0",
+    "prettier": "^2.8.1"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.46.1",
+    "@typescript-eslint/parser": "^5.46.1",
+    "eslint": "^8.29.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-jsx": "^0.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-simple-import-sort": "^8.0.0",
+    "prettier": "^2.8.1"
+  }
+}
