@@ -1,5 +1,5 @@
 {
-  "name": "@aelshinawy/eslint-prettier-react",
+  "name": "@aelshinawy/eslint-config-react",
   "version": "0.0.1",
   "description": "My custom eslint and prettier configuration for react projects",
   "main": "index.js",
