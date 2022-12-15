@@ -1,6 +1,6 @@
-# eslint, prettier and typescript configuration for react projects
+# React projects' eslint, prettier and typescript configuration
 
-These are my personal rules that I use in my projects.
+This package contains the latest eslint, prettier configurations for my typescript react projects
 
 ## Usage
 
